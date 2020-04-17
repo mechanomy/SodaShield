@@ -2,6 +2,9 @@
 Convert a 2L soda bottle into a face shield using only scissors and a stapler.
 See assembly instructions in [SodaShield.pdf](SodaShield.pdf).
 
+![SodaShield assembly instructions](SodaShield.png)
+
+
 # License
 This design copyright is released according to CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
 
